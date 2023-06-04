@@ -1,3 +1,6 @@
+# ignore files
+large_doc/
+
 # Prerequisites
 *.d
 
